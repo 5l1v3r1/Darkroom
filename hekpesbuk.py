@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 # Life Of Programmer
-# Coded By Nedi Senja
+# Coded By The Sixty Nine
 
 import os, sys, time, datetime, random, hashlib, re, threading, json, getpass, urllib, requests, mechanize
 from multiprocessing.pool import ThreadPool
@@ -33,7 +33,7 @@ def jalan(z):
 
 logo = """
 \x1b[106;96m[]\x1b[100;90m[]\x1b[0m~\x1b[4m\x1b[101;1m H e k \x1b[104;1mP e s b u k \033[0m~\x1b[103;93m[]\x1b[102;92m[]\x1b[105;95m[]\x1b[107;97m[]\x1b[0m
-\x1b[1;77m      * Coded by Nedi\x1b[0m
+\x1b[1;77m      * Mod by Senja\x1b[0m
 """
 
 def tik():
