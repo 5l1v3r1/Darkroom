@@ -32,8 +32,11 @@ def jalan(z):
         time.sleep(0.01)
 
 logo = """
-\x1b[106;96m[]\x1b[100;90m[]\x1b[0m~\x1b[4m\x1b[101;1m H e k \x1b[104;1mP e s b u k \033[0m~\x1b[103;93m[]\x1b[102;92m[]\x1b[105;95m[]\x1b[107;97m[]\x1b[0m
-\x1b[1;77m      * Mood by Senja\x1b[0m
+     \x1b[0;41;31m[ ]\x1b[0m \x1b[0;42;32m[ ]\x1b[0m \x1b[0;44;34m[ ]\x1b[0m        \x1b[0;40;37m[⁂]\x1b[0m
+      |   |   |          |
+\x1b[106;96m[]\x1b[100;90m[]\x1b[0m~\x1b[4m\x1b[0;90;46;1m Hek \x1b[0;97;45;1m Pesbuk \033[0;90;43;1m Darkvip \033[0m~\x1b[103;93m[]\x1b[102;92m[]\x1b[105;95m[]\x1b[107;97m[]\x1b[0m
+              \x1b[1;77m/\x1b[0m
+     \x1b[0;90;47;1m * \x1b[0;1;77;104m Coded by \x1b[0;1;77;101m # Nedi  \x1b[0m
 """
 
 def tik():
