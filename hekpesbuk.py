@@ -1,7 +1,8 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-# Life Of Programmer
-# Modified By The Sixty Nine
+# Hek Pesbuk
+# Coded by Senja
+# Github: github.com/thesixtynine/Hekpesbuk
 
 import os, sys, time, datetime, random, hashlib, re, threading, json, getpass, urllib, requests, mechanize
 from multiprocessing.pool import ThreadPool
@@ -36,7 +37,7 @@ logo = """
       |   |   |          |
 \x1b[106;96m[]\x1b[100;90m[]\x1b[0m~\x1b[4m\x1b[0;90;46;1m Hek \x1b[0;97;45;1m Pesbuk \033[0;90;43;1m Darkvip \033[0m~\x1b[103;93m[]\x1b[102;92m[]\x1b[105;95m[]\x1b[107;97m[]\x1b[0m
               \x1b[1;77m/\x1b[0m
-     \x1b[0;90;47;1m * \x1b[0;1;77;104m Coded by \x1b[0;1;77;101m # Nedi  \x1b[0m
+     \x1b[0;90;47;1m * \x1b[0;1;77;104m Coded by \x1b[0;1;77;101m # Senja \x1b[0m
 """
 
 def tik():
