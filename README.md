@@ -1,6 +1,6 @@
-# Hekpesbuk
+# Screenshot:
 ![](./images/Screenshoot.png)
-# Usage
+# Usage:
 ```
 pkg update && pkg upgrade
 apt-get install git
