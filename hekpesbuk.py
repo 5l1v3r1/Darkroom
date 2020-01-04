@@ -1,8 +1,8 @@
-#!/usr/bin/python
+#!/data/data/com.termux/files/usr/bin/python
 # -*- coding: utf-8 -*-
-# Hek Pesbuk
+# Hekpesbuk
 # Coded by Senja
-# Github: github.com/stepbystepexe/Hekpesbuk
+# Github: https://github.com/stepbystepexe/Hekpesbuk
 
 import os, sys, time, datetime, random, hashlib, re, threading, json, getpass, urllib, requests, mechanize
 from multiprocessing.pool import ThreadPool
