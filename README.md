@@ -1,6 +1,6 @@
 #### Screenshot:
 ![](./Screenshot.png)
-#### Cara Menginstal:
+#### Cara Menginstall:
 ```
 pkg update && pkg upgrade
 apt-get install git
