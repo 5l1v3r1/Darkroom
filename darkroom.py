@@ -5,7 +5,7 @@
 # Github: github.com/stepbystepexe/Darkroom
 
 import os, sys, time, datetime, random, hashlib, re, threading, json, getpass, urllib, requests, mechanize
-
+from time import sleep
 from multiprocessing.pool import ThreadPool
 from requests.exceptions import ConnectionError
 from mechanize import Browser
@@ -43,7 +43,7 @@ sys.setdefaultencoding('utf8')
 br = mechanize.Browser()
 br.set_handle_robots(False)
 br.set_handle_refresh(mechanize._http.HTTPRefreshProcessor(), max_time=1)
-br.addheaders = [('User-Agent', 'Opera/9.80 (Android; Opera Mini/32.0.2254/85. U; id) Presto/2.12.423 Version/12.16')]
+br.addheaders = [('User-Agent', 'Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG SM-G532G Build/MMB29T) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/9.4 Chrome/67.0.3396.87 Mobile Safari/537.36')]
 
 back = 0
 threads = []
@@ -256,7 +256,7 @@ def menu_select():
                                         print
                                         os.system('git pull origin master')
                                         print
-                                        raw_input('\n\x1b[0m[ \x1b[93;1mKembali \x1b[0m]')
+                                        raw_input('\n\x1b[0m[ \x1b[32mTekan Enter \x1b[0m]')
                                         menu()
                                     else:
                                         if menu.strip() in '- 0 keluar'.split():
