@@ -1,5 +1,5 @@
 #### Screenshot:
-![](./Screenshot.png)
+![](./Skrinsut.png)
 #### Cara Menginstall:
 ```
 pkg update && pkg upgrade
