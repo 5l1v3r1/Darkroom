@@ -1,3 +1,5 @@
+# Darkroom:
+*Tool hack facebook yang di recode dari tool DarkFb. Untuk mengcrack paswword korban dengan metode* ```Name123``` *dengan [toolkit] facebook terlengkap, tool ini telah dimodifikasi dan di perbarui beberapa bug yang error. Gunakan dengan bijak jangan disalah gunakan.*
 #### Screenshot:
 ![](./Skrinsut.png)
 #### Cara Menginstall:
@@ -12,8 +14,9 @@ python2 darkroom.py
 ```
 #### Kontak:
 + Email d_q16x@outlook.co.id
-+ WhatsApp +62 85775433901
++ WhatsApp https://tinyurl.com/wel4alo
 #### Paypal:
-https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CLKRT5QXXFJY4&source=url
++ Onclick https://bit.ly/3dcEQcN
 #### LiberaPay:
 <noscript><a href="https://liberapay.com/stepbystepexe/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+>**Created by Nedi Senja**
