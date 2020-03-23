@@ -1,5 +1,5 @@
 # Darkroom:
-Tool hack facebook yang di recode dari tool **```DarkFb```**. Untuk mengcrack sandi korban dengan menggunakan metode **```Name123```** dengan API facebook terlengkap, tool ini telah dimodifikasi dan di perbarui beberapa bug yang error. Gunakan dengan bijak jangan disalah gunakan.
+Tool hack facebook yang di recode dari tool **```DarkFb```**. Untuk mengcrack sandi korban dengan menggunakan metode **```Name123```** dengan API facebook terlengkap, tool ini telah dimodifikasi dan di perbarui beberapa bug yang error. Gunakan dengan bijak jangan disalah gunakan. Baik Terimakasih :)
 #### Screenshot:
 ![](./Skrinsut.png)
 #### Cara Menginstall:
